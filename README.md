@@ -1,19 +1,16 @@
 # SIRIUS
   + https://drive.google.com/file/d/1NZ09vRPKyr45msGQUwc71PUGoFYHFf-P/view?usp=sharing
-  + ^^^ лого ^^^
+  + ^^^ logo ^^^
 
-Нашият проект е написан на flutter. Той е приложение, което позволява на потребителя да научи нови неща за космоса и след това да провери знанията си чрез интерактивна тестова система. Има log-in система и запазване на прогреса, както и user bio (име, град, държава, профилна снимка, мейл, парола).
+Sirius is a mobile app that will help teach peaple of all ages of space and planets. It does that with an interactive learning experiance with goals and data collected from trustworthy sources.
 
-Инсталация: 
-  + Click линка по долу и download файла, който се появява, на своето android устройство. След това инсталирайте download-натия файл, като го отворите. Готово, в страницата с приложения може да видите SIRIUS! 
+# Installation: 
+  + Click the link below and install the file which then you will have to install on your android device. This is done just by clicking on the downloaded file and proceeding further with the instructions Done, in the apps page now you can see SIRIUS! 
   + https://drive.google.com/file/d/1RnAMCNrE1rnrd74LyFgIyq7LZvFPjnEK/view?usp=sharing
 
-Използвани технологии:
+# Used technology:
   + Flutter - https://flutter.dev/
   + Dart - https://dart.dev/
   + Firebase - https://firebase.google.com/
 
-Автори на проекта:
-  + Отбор TE-AM:
-    + Дарий Топузов 8В клас - backend и frontend
-    + Антонио Готев 8В клас - backend и frontend
+Created by the team of 3D-TUES
